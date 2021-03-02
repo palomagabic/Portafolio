@@ -1,0 +1,36 @@
+body{
+  background: #f2f2f2;
+  font-family: 'Noto Serif', serif;
+}
+header{
+  background-color: black;
+  color: white;
+  text-align: left;
+  padding: 100px;
+  margin-bottom:  100px;
+}
+
+/* ESte es un comentario
+.big se refiere a los elementos con la clase big
+ej: <span class="big"></span>
+*/
+.big{
+  font-size: 4rem;
+}
+
+h1{
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+img{
+  margin-bottom: 10px;
+  height: 50px;
+  object-fit: fill;
+}
+
+footer{
+  background-color: #333333;
+  padding:20px;
+  text-align: center;
+  color:white;
+}
